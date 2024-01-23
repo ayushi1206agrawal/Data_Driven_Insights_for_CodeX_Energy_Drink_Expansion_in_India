@@ -1,6 +1,8 @@
 # CodeX Marketing Insights Project - Power BI
 Provide Insights to the Marketing Team in Food & Beverage Industry
 
+Link to [Interactive Dashboard](https://www.novypro.com/project/data-driven-insights-for-codex-energy-drink-expansion-in-india)
+
 ## Problem Statement
 **CodeX** is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
