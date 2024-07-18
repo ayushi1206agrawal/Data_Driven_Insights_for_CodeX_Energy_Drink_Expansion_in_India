@@ -1,4 +1,4 @@
-# CodeX Marketing Insights Project - Power BI
+# CodeX Marketing Insights Project - Power
 Provide Insights to the Marketing Team in Food & Beverage Industry
 
 Link to [Interactive Dashboard](https://www.novypro.com/project/data-driven-insights-for-codex-energy-drink-expansion-in-india)
